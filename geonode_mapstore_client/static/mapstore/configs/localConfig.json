@@ -114,7 +114,11 @@
         "es": {
             "code": "es-ES",
             "description": "Español"
-        }
+        },
+        "pt-BR": {
+             "code": "pt-BR",
+             "description": "Português-Brasil"
+         }
     },
     "mapType": {
         "defaultVisualizationMode": "2D",
